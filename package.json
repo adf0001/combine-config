@@ -1,6 +1,6 @@
 {
   "name": "combine-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "combine config",
   "main": "combine-config.js",
   "scripts": {
@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "call-log-func": "^1.0.2",
-    "is-simple-object": "^1.0.5"
+    "is-simple-object": "^1.0.5",
+    "prototype-clone": "^1.0.2"
   },
   "directories": {
     "test": "test"
