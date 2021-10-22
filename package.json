@@ -1,0 +1,33 @@
+{
+  "name": "combine-config",
+  "version": "1.0.1",
+  "description": "combine config",
+  "main": "combine-config.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "combine",
+    "config"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "dependencies": {
+    "call-log-func": "^1.0.2",
+    "is-simple-object": "^1.0.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "prototype-stringify": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/combine-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/combine-config/issues"
+  },
+  "homepage": "https://github.com/adf0001/combine-config#readme"
+}
